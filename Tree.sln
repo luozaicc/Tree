@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BiThrTree", "BiThrTree\BiThrTree.vcxproj", "{15C1D573-E5F7-4B01-9ECD-C4471100EC10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C1D573-E5F7-4B01-9ECD-C4471100EC10}.Debug|x64.ActiveCfg = Debug|x64
+		{15C1D573-E5F7-4B01-9ECD-C4471100EC10}.Debug|x64.Build.0 = Debug|x64
+		{15C1D573-E5F7-4B01-9ECD-C4471100EC10}.Debug|x86.ActiveCfg = Debug|Win32
+		{15C1D573-E5F7-4B01-9ECD-C4471100EC10}.Debug|x86.Build.0 = Debug|Win32
+		{15C1D573-E5F7-4B01-9ECD-C4471100EC10}.Release|x64.ActiveCfg = Release|x64
+		{15C1D573-E5F7-4B01-9ECD-C4471100EC10}.Release|x64.Build.0 = Release|x64
+		{15C1D573-E5F7-4B01-9ECD-C4471100EC10}.Release|x86.ActiveCfg = Release|Win32
+		{15C1D573-E5F7-4B01-9ECD-C4471100EC10}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {116116F2-5406-4E4B-AE2D-2B2047E7775F}
+	EndGlobalSection
+EndGlobal
